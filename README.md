@@ -41,8 +41,6 @@ Will be producing more React Projects, so stay tuned.
 
 My Email: s.terenvelan@gmail.com
 
-Project Link: https://taste-the-world-recipe-hub.herokuapp.com/
-
 Please do give me your feedback to help me improve in subsequent projects.
 
 Cheers!
